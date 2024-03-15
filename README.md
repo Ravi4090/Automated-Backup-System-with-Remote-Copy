@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # Automated Backup System with Remote Copy
 
 The Automated Backup System with Remote Copy is a shell scripting project designed to automate the process of backing up critical data on a Linux system and securely transferring it to a remote server. This project enhances data protection, resilience, and disaster recovery preparedness by leveraging shell scripting, encryption, and remote file transfer protocols.
