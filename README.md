@@ -59,11 +59,5 @@ The Automated Backup System with Remote Copy provides a reliable and efficient s
 
 ## Author
 
-- [Ravishankar Rajupalepu](https://github.com/yourusername)
+- [Ravishankar Rajupalepu]https://github.com/Ravi4090
 
-## Acknowledgements
-
-- Inspired by the need for a reliable and secure backup solution.
-```
-
-Please replace "yourusername" with your actual GitHub username.
